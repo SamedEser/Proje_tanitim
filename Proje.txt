@@ -1,0 +1,9 @@
+	İnteraktif e-ticaret sitesi
+kıyafet alış verişi yapılabilinen bir e-ticaret sayfası. Kullanıcılar aradıkları kıyafetleri seçimlerine göre filtreleyebilir;çocuk,genç,yetişkin,kadın,erkek ve her türlü bedene uygun kıyafet bulabilirler.
+Kıyafetlerin alternatiflerini görebilir, bütçe aralığında seçtikleri kıyafetlere bakabilirler.
+Satıcılar siteye kayıt olup kendi ürünlerini satabilirler. Kayıt olmuş kullanıcılar sadece satış yapmak zorunda değil alıcı olarakta siteden stoklar bittiyse eğer stoklar geldiğinde bildirim alabilirler.
+Satıcılar seçtikleri üründe indirim uygulayabilirler ve özel gün indirimleride yapılabilirler. Satıcılar istedikleri zaman fiyat güncellemesi yapabilirler. Belli bir ödeme üstünde kargo ücretsiz.
+Kullanıcıların ilgisini çekebilcek fırsatlar ve konbinler sitede gösterilir. Kredi,banka kartı ve kapıda ödeme seçeneklerine sahiptirler. Ürün iadesi ve ürün değişimi yapılabilir.
+Müşteri destek ve yardım hattı ile kaliteli alış deneyimi sunan alış veriş sitesi.
+
+ 
